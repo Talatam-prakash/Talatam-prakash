@@ -10,14 +10,14 @@ AI/ML Engineer with 6 months of production experience building RAG pipelines and
 - Built a RAG-based system for automated invoice validation and policy compliance
 - FastAPI backend + Streamlit UI with ChromaDB and LLaMA-3 (Groq)
 - Enables structured decision generation and natural language querying  
-👉 [https://github.com/Talatam-prakash/Invoice-Reimbursement-System](#)
+👉 [https://github.com/Talatam-prakash/Invoice-Reimbursement-System]
 
 ---
 
 ### 🔹 Multi-PDF Conversational RAG Chatbot
 - Developed a multi-document chatbot using embeddings + vector search (ChromaDB)
 - Supports conversational memory for multi-turn interactions  
-👉 [https://github.com/Talatam-prakash/Conversional-PDF-chatbot](#)
+👉 [https://github.com/Talatam-prakash/Conversional-PDF-chatbot]
 
 ---
 
