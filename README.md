@@ -6,7 +6,7 @@ AI/ML Engineer with 6 months of production experience building RAG pipelines and
 
 ## 🚀 Featured Projects
 
-### 🔹 AI-Powered Invoice Validation System
+### 🔹 AI-Powered Invoice Reimbursement System
 - Built a RAG-based system for automated invoice validation and policy compliance
 - FastAPI backend + Streamlit UI with ChromaDB and LLaMA-3 (Groq)
 - Enables structured decision generation and natural language querying  
